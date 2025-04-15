@@ -3,7 +3,7 @@ CodeStringExporter takes a folder of projects and exports minified code files in
 
 How it works
 
-1 - Clone repos you wish to document to the /projects folder.
+1 - Clone repos you wish to document to a /projects folder in project root.
 2 - Check and adjust vars to crawl the files in a manner that suits your projects:
     - ALLOWED_EXTENSIONS
     - ALLOWED_BASE_FILES
